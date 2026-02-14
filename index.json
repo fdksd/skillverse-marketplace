@@ -1,18 +1,5 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-14T10:39:30.954Z",
-  "skills": [
-    {
-      "type": "bundle",
-      "name": "web-artifacts-builder",
-      "description": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts requiring state management, routing, or shadcn/ui components - not for simple single-file HTML/JSX artifacts.",
-      "publisherName": "Anonymous",
-      "bundleUrl": "https://github.com/fdksd/skillverse-marketplace/releases/download/skillverse-marketplace/web-artifacts-builder/v1.0.0/1771065189857/web-artifacts-builder-1.0.0.tar.gz",
-      "bundleSize": 30345,
-      "sha256": "33240006663e7cc8b3d0a6642fb8f816f386721d0cf0e5e987c70c0b3772b965",
-      "skillVersion": "1.0.0",
-      "createdAt": "2026-02-14T10:32:32.966Z",
-      "updatedAt": "2026-02-14T10:33:12.389Z"
-    }
-  ]
+  "updatedAt": "2026-02-14T10:41:03.385Z",
+  "skills": []
 }
