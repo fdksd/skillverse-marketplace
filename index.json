@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-14T08:35:20.380Z",
+  "updatedAt": "2026-02-14T09:13:43.594Z",
   "skills": [
     {
       "type": "bundle",
@@ -25,6 +25,15 @@
       "skillVersion": "1.0.0",
       "createdAt": "2026-02-14T08:35:20.379Z",
       "updatedAt": "2026-02-14T08:35:20.379Z"
+    },
+    {
+      "type": "git",
+      "name": "doc-coauthoring",
+      "description": "Guide users through a structured workflow for co-authoring documentation. Use when user wants to write documentation, proposals, technical specs, decision docs, or similar structured content. This workflow helps users efficiently transfer context, refine content through iteration, and verify the doc works for readers. Trigger when user mentions writing docs, creating proposals, drafting specs, or similar documentation tasks.",
+      "publisherName": "Anonymous",
+      "gitUrl": "https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring",
+      "createdAt": "2026-02-14T09:13:43.593Z",
+      "updatedAt": "2026-02-14T09:13:43.593Z"
     }
   ]
 }
