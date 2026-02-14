@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-14T10:33:12.390Z",
+  "updatedAt": "2026-02-14T10:37:21.204Z",
   "skills": [
     {
       "type": "bundle",
@@ -25,6 +25,18 @@
       "skillVersion": "1.0.0",
       "createdAt": "2026-02-14T10:32:32.966Z",
       "updatedAt": "2026-02-14T10:33:12.389Z"
+    },
+    {
+      "type": "bundle",
+      "name": "vue-upgrade",
+      "description": "Vue 2 到 Vue 3 升级助手 - 端到端的文件升级流程，包括语法转换、组件库迁移和最佳实践",
+      "publisherName": "Anonymous",
+      "bundleUrl": "https://github.com/fdksd/skillverse-marketplace/releases/download/skillverse-marketplace/vue-upgrade/v1.0.0/1771065438707/vue-upgrade-1.0.0.tar.gz",
+      "bundleSize": 6200,
+      "sha256": "7642f6e371b7aa6845a26393eab589671a15fa34d577702f75e6d3172b1cedd5",
+      "skillVersion": "1.0.0",
+      "createdAt": "2026-02-14T10:37:21.204Z",
+      "updatedAt": "2026-02-14T10:37:21.204Z"
     }
   ]
 }
