@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-14T09:55:53.658Z",
+  "updatedAt": "2026-02-14T09:57:04.917Z",
   "skills": [
     {
       "type": "git",
@@ -10,6 +10,18 @@
       "gitUrl": "https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring",
       "createdAt": "2026-02-14T09:13:43.593Z",
       "updatedAt": "2026-02-14T09:13:43.593Z"
+    },
+    {
+      "type": "bundle",
+      "name": "web-artifacts-builder",
+      "description": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts requiring state management, routing, or shadcn/ui components - not for simple single-file HTML/JSX artifacts.",
+      "publisherName": "Anonymous",
+      "bundleUrl": "https://github.com/fdksd/skillverse-marketplace/releases/download/skillverse-marketplace/web-artifacts-builder/v1.0.0/1771063022225/web-artifacts-builder-1.0.0.tar.gz",
+      "bundleSize": 30345,
+      "sha256": "33240006663e7cc8b3d0a6642fb8f816f386721d0cf0e5e987c70c0b3772b965",
+      "skillVersion": "1.0.0",
+      "createdAt": "2026-02-14T09:57:04.916Z",
+      "updatedAt": "2026-02-14T09:57:04.916Z"
     }
   ]
 }
