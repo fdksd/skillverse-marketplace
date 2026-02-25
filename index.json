@@ -1,5 +1,18 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-25T13:17:27.790Z",
-  "skills": []
+  "updatedAt": "2026-02-25T14:26:37.064Z",
+  "skills": [
+    {
+      "type": "bundle",
+      "name": "codex-readiness-integration-test",
+      "description": "Run the Codex Readiness integration test. Use when you need an end-to-end agentic loop with build/test scoring.",
+      "publisherName": "Anonymous",
+      "bundleUrl": "https://github.com/fdksd/skillverse-marketplace/releases/download/skillverse-marketplace/codex-readiness-integration-test/v1.0.0/1772029593352/codex-readiness-integration-test-1.0.0.tar.gz",
+      "bundleSize": 30615,
+      "sha256": "8aab62ae8de20b914633af8c50f1bd042b5b0ee17deb9780fb6516015717951f",
+      "skillVersion": "1.0.0",
+      "createdAt": "2026-02-25T14:26:37.062Z",
+      "updatedAt": "2026-02-25T14:26:37.062Z"
+    }
+  ]
 }
