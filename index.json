@@ -1,5 +1,18 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-14T10:55:53.674Z",
-  "skills": []
+  "updatedAt": "2026-02-25T13:15:54.818Z",
+  "skills": [
+    {
+      "type": "bundle",
+      "name": "my-skill",
+      "description": "",
+      "publisherName": "Anonymous",
+      "bundleUrl": "https://github.com/fdksd/skillverse-marketplace/releases/download/skillverse-marketplace/my-skill/v1.0.0/1772025352294/my-skill-1.0.0.tar.gz",
+      "bundleSize": 132,
+      "sha256": "a8d406a02c4bef848acee7bc98b1ecb716be0a3c828c506f2ad982c8dfe07341",
+      "skillVersion": "1.0.0",
+      "createdAt": "2026-02-25T13:15:54.813Z",
+      "updatedAt": "2026-02-25T13:15:54.813Z"
+    }
+  ]
 }
